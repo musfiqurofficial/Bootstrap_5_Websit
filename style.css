@@ -16,3 +16,33 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.box-bg, .box-bg2, .box-bg3{padding: 10px 0; border-radius: 10px; color: white;}
+.con-3 img{width: 100px;}
+.box-bg{
+    background-image: linear-gradient(to right, #FF589B 0%, #FF136F 100%);
+    
+}
+.box-bg2{
+    background-image: linear-gradient(to right, #58a6ff 0%, #0077ff 100%);
+ 
+}
+.box-bg3{
+    background-image: linear-gradient(to right, #ffc548 0%, #ffae00 100%);
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    border-top: none;
+    background-color: white ;
+}
+#feedback{
+    height: 300px;
+    border-radius: 10px;
+    background-color: #fceae8;
+}
+#feedback h6{
+    color: grey;
+}
